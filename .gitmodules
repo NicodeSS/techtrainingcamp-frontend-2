@@ -1,0 +1,9 @@
+[submodule "Tiktok-Frontend-Main"]
+	path = Tiktok-Frontend-Main
+	url = https://github.com/NicodeSS/tiktok-react-frontend
+[submodule "Tiktok-Frontend-Management"]
+	path = Tiktok-Frontend-Management
+	url = https://github.com/NicodeSS/tiktok-react-management
+[submodule "Tiktok-Backend"]
+	path = Tiktok-Backend
+	url = https://github.com/wuyan0714/tiktok-react-backend
